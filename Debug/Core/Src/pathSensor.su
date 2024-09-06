@@ -1,0 +1,3 @@
+../Core/Src/pathSensor.cpp:38:6:void path_setup()	8	static
+../Core/Src/pathSensor.cpp:43:6:void path()	24	static
+../Core/Src/pathSensor.cpp:104:6:void path_moveto(float, float)	16	static
